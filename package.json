@@ -1,0 +1,22 @@
+{
+  "name": "cu-module10-object-oriented-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroormeno/CU-Module10-Object-Oriented-Programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvaroormeno/CU-Module10-Object-Oriented-Programming/issues"
+  },
+  "homepage": "https://github.com/alvaroormeno/CU-Module10-Object-Oriented-Programming#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
